@@ -47,7 +47,7 @@ I don’t just write code — I care about **how systems are designed, optimized
 </p>
 
 <p align="left">
-  <img src="https://github.vagno.dev/?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
