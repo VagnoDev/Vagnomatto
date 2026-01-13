@@ -43,17 +43,11 @@ I don’t just write code — I care about **how systems are designed, optimized
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vagno&show_icons=true&theme=dark&hide_border=true" alt="Vagno's GitHub stats" />
-</p>
+![Stats di Vagno](https://github-readme-stats.vercel.app/api?username=Vagno&show_icons=true&theme=dark&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vagno&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![Streak di Vagno](https://github-readme-streak-stats.herokuapp.com/?user=Vagno&theme=dark&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagno&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Vagno&layout=compact&theme=dark&hide_border=true)
 
 ---
 
