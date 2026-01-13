@@ -43,15 +43,15 @@ I don’t just write code — I care about **how systems are designed, optimized
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VagnoDev&show_icons=true&theme=dark&hide_border=true" alt="Stats di Vagno" />
+  <img src="https://github.vagno.dev/api?username=VagnoDev&show_icons=true&theme=dark&hide_border=true" alt="Stats di Vagno" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.vagno.dev/?user=VagnoDev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnoDev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github.vagno.dev/api/top-langs/?username=VagnoDev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 
 > ⚙️ Always building. Always improving.
